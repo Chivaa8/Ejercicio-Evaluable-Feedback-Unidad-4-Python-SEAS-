@@ -9,9 +9,10 @@ Este programa permite gestionar los datos de clientes de una empresa mediante un
 
 | Archivo | Descripción |
 |---------|-------------|
-| `ejercicio_feedback.py` | Código principal del ejercicio. |
-| `TO_PYTHON.pdf` | Enunciado del ejercicio en PDF. |
-| `nota.jpg` | Foto con la nota obtenida en el ejercicio. |
+| `feedback.py` | Código principal del ejercicio. |
+| `descripcion_solucion_oriol_chiva.pdf` | Documento con la descripción de la solución adoptada. |
+| `todos_los_errores_posibles_oriol_chiva.pdf` | Documento con ejemplos de errores y cómo se gestionan. |
+| `nota.png` | Foto con la nota obtenida en el ejercicio. |
 
 ---
 
@@ -22,4 +23,4 @@ Este programa permite gestionar los datos de clientes de una empresa mediante un
 3. Ejecuta el siguiente comando:
 
 ```bash
-python ejercicio_feedback.py
+python feedback.py
